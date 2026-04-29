@@ -44,10 +44,10 @@ Dog CEO API:
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/Dog_app.png)
+![Home Page]/Dog_app.png)
 
 ### Breeds Page
-![Breeds Page](screenshots/Dog-app1.png)
+![Breeds Page](scree/Dog-app1.png)
 
 ### Images Page
 ![Images Page](screenshots/Dog-app2.png)
