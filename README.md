@@ -40,14 +40,16 @@ Dog CEO API:
 - Navigation system
 - Responsive design
 
-
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page]/Dog_app.png)
+![Home Page](Dog_app.png)
 
 ### Breeds Page
-![Breeds Page](scree/Dog-app1.png)
+![Breeds Page](Dog-app1.png)
+
+### Images Page
+![Images Page](Dog-app2.png)
 
 ### Images Page
 ![Images Page](screenshots/Dog-app2.png)
