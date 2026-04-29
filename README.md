@@ -51,6 +51,14 @@ Dog CEO API:
 ### Images Page
 ![Images Page](Dog-app2.png)
 
+
+
+
+
+
+
+
+
 ### Images Page
 ![Images Page](screenshots/Dog-app2.png)
 ## 👩‍💻 Author
