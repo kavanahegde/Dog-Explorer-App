@@ -56,10 +56,5 @@ Dog CEO API:
 
 
 
-
-
-
-### Images Page
-![Images Page](screenshots/Dog-app2.png)
 ## 👩‍💻 Author
 Created as part of Code the Dream Pre-work Assignment.
